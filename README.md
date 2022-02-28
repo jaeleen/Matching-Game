@@ -16,18 +16,11 @@ Matching Card Game
 
 
 
-A Netflix landing page.
-
-Made as a School Project @ The University of Regina, CS215 Web Oriented Programming.
-
-
 ### Screenshot
-
-![](Assets/images/screenshot1.png)
 
 ### Links
 
-- Live Site URL: (https://jaeleen.github.io/Recom/)
+- Live Site URL:
 
 ## Process
 
